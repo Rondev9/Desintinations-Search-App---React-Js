@@ -1,0 +1,39 @@
+.DestinationSearchAppContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.title {
+  font-family: 'Roboto';
+  font-size: 36px;
+}
+.searchBoxContainer {
+  display: flex;
+  justify-content: center;
+  background-color: #ebebeb;
+  background-size: cover;
+  width: 250px;
+  padding: 10px;
+  border-radius: 10px;
+}
+.inputDesign {
+  border: 0px;
+  font-family: 'Roboto';
+  font-size: 17px;
+  background-color: transparent;
+  outline: none;
+}
+.searchIcon {
+  width: 20px;
+  height: 20px;
+}
+.destinationsContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 20px;
+}

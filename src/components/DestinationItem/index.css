@@ -1,0 +1,13 @@
+.destinationContainer {
+  margin: 10px;
+}
+.destinationImage {
+  height: 200px;
+  width: 280px;
+}
+.destinationName {
+  font-family: 'Open Sans';
+  color: #000000;
+  font-size: 18px;
+  font-weight: 400;
+}
